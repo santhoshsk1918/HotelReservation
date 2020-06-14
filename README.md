@@ -2,7 +2,8 @@
 
 UserTypes: Client, HotelOwner, Admin
 
-Client: 
+#### Client: 
+
   Registration,
   Login,
   List of available Hotels
@@ -13,7 +14,7 @@ Client:
   
   -----------------------------------------------------------------
   
-  HotelOwner:
+  #### HotelOwner:
     Registration
     Login
     Create Hotels
@@ -23,7 +24,7 @@ Client:
     
   -----------------------------------------------------------------
   
-  Admin
+  #### Admin
   --> All Functionality
   
   -----------------------------------------------------------------
