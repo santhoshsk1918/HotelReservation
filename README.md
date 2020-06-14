@@ -9,7 +9,7 @@ UserTypes: Client, HotelOwner, Admin
     -> Pricing Information
     -> List of Rooms
     -> Booking
-  -> My Bookings Page
+  My Bookings Page
   
   -----------------------------------------------------------------
   
